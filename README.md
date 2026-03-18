@@ -80,7 +80,7 @@ CREATE TABLE students (
 ![Main Screen](screenshots/student_management_system.png)
 
 ### 🎂 Age Calculator
-![Age Calculator](screenshots/age_calculator.png)
+![Age Calculator](screenshots/Age_calculator.png)
 
 ## 💡 Learning Outcomes
 
